@@ -1,0 +1,29 @@
+
+    .one {
+      background-color:#000;
+      color: #fff;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+    }
+    h1 {
+      font-weight: 700;
+      font-size: 3.5rem;
+      line-height: 1.1;
+    }
+    p {
+      font-size: 1.1rem;
+      margin-top: 1.5rem;
+      color: #ddd;
+    }
+    .hero-img {
+      max-width: 350px;
+      width: 100%;
+    }
+    .two{
+      background-color:  black;
+    }
+    .three{
+      background-color: black;
+    }
+    
